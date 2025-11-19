@@ -1,0 +1,7 @@
+{
+  "name": "Nano Art Studio",
+  "description": "Transform and edit photos using the power of Gemini 2.5 Flash Image. Convert selfies to anime, add retro filters, or remove objects with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
